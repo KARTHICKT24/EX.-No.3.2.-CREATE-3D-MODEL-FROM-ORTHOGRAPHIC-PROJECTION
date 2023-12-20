@@ -34,7 +34,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823408-d3d678f1-2247-41a2-abdd-b9a8918daef8.png)
 
 
-8.	After finishing the model convert to drawing sheet per  ISO standard.
+8.	After finishing the model convert to drawing sheet per  ISO standard
 
 ![image](https://user-images.githubusercontent.com/113594316/198823415-9d0a9454-b197-44bf-b90f-179c75602500.png)
 
